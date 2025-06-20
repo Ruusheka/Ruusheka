@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Ruusheka
-**A passionate AI Developer || Python Web Developer || Competitive Programmer**
+**A passionate AI Developer || Python Developer || Web Developer || Competitive Programmer**
 - 🔭 **I’m currently working on:** AI, ML, and Python web development-based projects.
   
 - 🌱 **I’m currently learning:** Data Structures & Algorithms and actively practicing competitive programming on Codeforces and LeetCode.
