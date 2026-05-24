@@ -1,4 +1,4 @@
-![My Portfolio Screenshot](https://github.com/Ruusheka/rock_paper_scissors/blob/main/Ruusheka(3).png)
+![My Portfolio Screenshot](https://github.com/Ruusheka/rock_paper_scissors/blob/main/Ruusheka%20(3).png)
 
 
 ![](https://github-profile-trophy.vercel.app/?username=Ruusheka&theme=radical&no-frame=false&no-bg=false&margin-w=4)
