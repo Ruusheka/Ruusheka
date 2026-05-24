@@ -1,8 +1,8 @@
 ![My Portfolio Screenshot](https://github.com/Ruusheka/rock_paper_scissors/blob/main/Ruusheka%20(3).png)
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+</div> -->
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ruusheka&theme=react-dark&area=true&hide_border=true)
 
