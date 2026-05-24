@@ -1,8 +1,5 @@
 ![My Portfolio Screenshot](https://github.com/Ruusheka/rock_paper_scissors/blob/main/Ruusheka%20(3).png)
 
-
-![](https://github-profile-trophy.vercel.app/?username=Ruusheka&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
