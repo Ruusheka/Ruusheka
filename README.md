@@ -4,6 +4,8 @@
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&area=true&hide_border=true)
+
 <h3 align="center">Connect with me</h3>
 <p align="center">
 <a href="https://linkedin.com/in/s ruusheka akilavarshini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="s ruusheka akilavarshini" height="30" width="40" /></a>
