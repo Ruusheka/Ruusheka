@@ -1,5 +1,8 @@
-# 💫 Hi 👋, I'm Ruusheka
-**A passionate AI Developer || Python Developer || Web Developer || Competitive Programmer**
+<h1 align="center">Hi 👋, I'm S Ruusheka Akilavarshini</h1>
+<h3 align="center"> AI Developer || Python Developer || Web Developer || Competitive Programmer </h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ruusheka&label=Profile%20views&color=0e75b6&style=flat" alt="ruusheka" /> </p>
+
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
