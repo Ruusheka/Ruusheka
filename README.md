@@ -16,18 +16,3 @@
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Ruusheka)
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/s ruusheka akilavarshini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="s ruusheka akilavarshini" height="30" width="40" /></a>
-<a href="https://instagram.com/_itz_ruushe_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_itz_ruushe_" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/s ruusheka akilavarshini" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="s ruusheka akilavarshini" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/s ruusheka akilavarshini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="s ruusheka akilavarshini" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/ruusheka_akilavarshini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ruusheka_akilavarshini" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/s ruusheka akilavarshini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="s ruusheka akilavarshini" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/s ruusheka akilavarshini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="s ruusheka akilavarshini" height="30" width="40" /></a>
-</p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ruusheka&show_icons=true&locale=en" alt="ruusheka" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ruusheka&" alt="ruusheka" /></p>
