@@ -4,7 +4,6 @@
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div> -->
 
-//![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ruusheka&theme=react-dark&area=true&hide_border=true)
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
